@@ -1,5 +1,5 @@
 {
-  "name": "rn-vertical-slider",
+  "name": "raptor-vertical-slider",
   "version": "3.2.0",
   "description": "A vertical Slider for React Native written entirely in javascript.",
   "main": "lib/commonjs/index",
